@@ -1,7 +1,7 @@
 import { plugins } from "@storeino/template-core";
 export default {
   head: {
-    title: 'palest-theme',
+    title: 'starter-theme',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },

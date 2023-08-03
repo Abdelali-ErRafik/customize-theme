@@ -1,4 +1,4 @@
-# palest-theme
+# starter-theme
 
 ## Build Setup
 
