@@ -1,4 +1,4 @@
-# starter-theme
+# customize-theme
 
 ## Build Setup
 
